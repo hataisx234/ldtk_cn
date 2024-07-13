@@ -10,6 +10,10 @@ Links: [Official website](https://ldtk.io/) | [Haxe API (on GitHub)](https://git
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/deepnight/ldtk-haxe-api/unitTests.yml?label=Unit%20tests)](https://github.com/deepnight/ldtk-haxe-api/actions/workflows/unitTests.yml)
 
 # Getting LDtk latest version
+ldtk1.5.3汉化版下载地址
+链接：https://pan.baidu.com/s/1BvXLzokVq3JV-nBVit_JHA?pwd=ldtk 
+提取码：ldtk 
+
 
 Visit [LDtk.io](https://ldtk.io) to get latest version.
 
